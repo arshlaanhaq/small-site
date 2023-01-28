@@ -60,7 +60,7 @@ html{
 
 #contact::before{
    
-    height: 120vh;
+    height: 104%;
     
 
 }
@@ -81,7 +81,7 @@ footer{
 .hpr{
     font-size: 26px;
 }
-.btn{
+.btn , .btn-sn{
     padding: 5px 21px;
     font-size: 15px;
 }
