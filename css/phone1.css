@@ -69,7 +69,11 @@ html{
 }
 
 /* footer` */
+footer{
+    width: 90vw;
+   
 
+}
 /* utility class */
 .hpr{
     font-size: 26px;
