@@ -1,13 +1,15 @@
 /* navigation */
-#navbr{
+#navbr {
     flex-direction: column;
     position: relative;
-   
+
 }
-html{
+
+html {
     overflow-x: hidden;
 }
-#navbr ul li a{
+
+#navbr ul li a {
     padding: 0px 14px;
     color: rgb(196 8 8);
     font-size: 17px;
@@ -15,72 +17,85 @@ html{
 }
 
 /* HOme */
-#home{
+#home {
     height: 341px;
     padding: 3px 20px;
 
 }
-#home::before{
+
+#home::before {
     height: 480px;
 
 }
-#home p{
+
+#home p {
     font-size: 13px;
-   
+
 }
+
 /* services section */
-#services{
+#services {
     flex-direction: column;
 }
-#serv-container{
+
+#serv-container {
     margin-top: 20px;
     background-color: #d8e2e2;
     padding-bottom: 12px;
 }
 
 #services .box {
-   
+
     padding: 14px;
     margin: 2px 0px;
     margin-bottom: 20px;
 }
+
 /* #services .box img{
     width: 159px;
 } */
 /* client sectiontion */
-#client{
+#client {
     flex-wrap: wrap;
 }
-#client img{
+
+#client img {
     width: 104px;
     padding: 2px 8px;
     height: auto;
 }
+
 /* contact section */
 
-#contact::before{
-   
-    height: 120%;
-    
+#contact::before {
+
+    height: 121%;
+
 
 }
+
 #cont-box {
     margin-top: 55px;
 }
-#cont-box form{
+
+#cont-box form {
     width: 65%;
 }
 
 /* footer` */
-footer{
-    width: 92.5vw;
+footer {
+    width: 94vw;
+    margin-top: 6px;
 
 }
+
 /* utility class */
-.hpr{
+.hpr {
     font-size: 26px;
 }
-.btn , .btn-sn{
+
+.btn,.btn-sn {
     padding: 5px 34px;
     font-size: 20px;
+    margin: 4px 69px;
 }

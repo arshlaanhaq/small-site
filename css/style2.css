@@ -199,7 +199,6 @@ footer{
     background: black;
     width: 98vw;
     color: white;
-    margin-top: 26px;
     padding: 9px 14px;
 
 }
@@ -235,15 +234,17 @@ footer{
 }
 
 .btn-sn{
-    padding: 8px;
+    padding: 10px 135px;
     border-radius: 10px;
+    border: 2px solid white;
     color: white;
     background-color: brown;
-    font-size: 1em;
+    font-size: 20px;
+    font-family: cursive;
     font-weight: bold;
-    margin: 4px 60px;
+    margin: 4px 120px;
     cursor: pointer;
-    margin-top: 18px;
+    margin-top: 25px;
 }
 .btn-sn:hover{
     color: black;
