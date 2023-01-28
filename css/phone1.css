@@ -9,9 +9,9 @@ html{
 }
 #navbr ul li a{
     padding: 0px 14px;
-    color: rgb(246 24 24);
+    color: rgb(196 8 8);
     font-size: 17px;
-    font-family: cursive;
+    font-family: fantasy;
 }
 
 /* HOme */
@@ -60,7 +60,7 @@ html{
 
 #contact::before{
    
-    height: 123vh;
+    height: 120vh;
     
 
 }
