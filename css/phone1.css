@@ -60,7 +60,7 @@ html{
 
 #contact::before{
    
-    height: 104%;
+    height: 110%;
     
 
 }
@@ -74,7 +74,6 @@ html{
 /* footer` */
 footer{
     width: 93.5vw;
-   
 
 }
 /* utility class */
