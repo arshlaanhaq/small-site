@@ -100,7 +100,10 @@ html{
     font-size: 1.31rem;
     font-family: 'Baloo Bhaijaan 2', cursive;
 }
-
+#home a{
+    text-decoration: none;
+    color: white;
+}
 
 
 /* services section */
