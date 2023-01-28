@@ -8,9 +8,9 @@ html{
     overflow-x: hidden;
 }
 #navbr ul li a{
-    padding: 0 20px;
-    color: rgb(196 84 84);
-    font-size: 16px;
+    padding: 0px 11px;
+    color: rgb(2 2 2);
+    font-size: 17px;
     font-family: cursive;
 }
 
@@ -60,9 +60,12 @@ html{
 
 #contact::before{
    
-    height: 120%;
+    height: 126vh;
     
 
+}
+#cont-box {
+    margin-top: 45px;
 }
 #cont-box form{
     width: 60%;
