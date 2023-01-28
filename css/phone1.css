@@ -60,7 +60,7 @@ html{
 
 #contact::before{
    
-    height: 110%;
+    height: 117%;
     
 
 }
@@ -73,7 +73,7 @@ html{
 
 /* footer` */
 footer{
-    width: 93.5vw;
+    width: 92.5vw;
 
 }
 /* utility class */
@@ -82,5 +82,5 @@ footer{
 }
 .btn , .btn-sn{
     padding: 5px 21px;
-    font-size: 15px;
+    font-size: 20px;
 }
